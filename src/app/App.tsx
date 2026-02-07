@@ -198,11 +198,7 @@ export default function App() {
             © 2026 AngoLearn - Transformando estudantes em campeões através da educação personalizada
           </p>
           <p className="text-sm text-blue-300 mt-2">
-            Desenvolvido com base nos conceitos de Sistemas Inteligentes trabalho recomendado pelo <br />
-            excelentícimo <strong>professor Universitário Herculano Simão</strong> projecto feito com base nos <br />
-            seguintes conceitos de IA: IA baseada em objectivos e IA reactiva
-            <br />
-            Projecto Realizado pelos seguintes estudantes:  Jones José, Nuno Nunco, Nsungo Pedro
+            Muito obrigado por nos teres visitado
           </p>
         </div>
       </footer>
